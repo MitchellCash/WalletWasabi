@@ -1,7 +1,5 @@
-using System;
 using ReactiveUI;
 using System.Reactive.Disposables;
-using WalletWasabi.Helpers;
 using System.Reactive.Linq;
 using WalletWasabi.Gui.ViewModels;
 using Splat;

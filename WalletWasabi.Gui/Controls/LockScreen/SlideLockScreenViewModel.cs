@@ -4,7 +4,6 @@ using System;
 using ReactiveUI;
 using System.Reactive.Disposables;
 using System.Reactive.Linq;
-using Avalonia;
 
 namespace WalletWasabi.Gui.Controls.LockScreen
 {

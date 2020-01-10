@@ -5,7 +5,6 @@ using System.IO;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading;
-using WalletWasabi.Crypto;
 using WalletWasabi.Helpers;
 
 namespace WalletWasabi.Logging

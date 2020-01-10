@@ -1,10 +1,4 @@
-using Newtonsoft.Json;
-using System;
-using System.Collections.Generic;
-using System.Globalization;
 using System.Linq;
-using System.Text;
-using WalletWasabi.Gui.Converters;
 using WalletWasabi.Gui.ViewModels.Validation;
 using WalletWasabi.Models;
 using Xunit;

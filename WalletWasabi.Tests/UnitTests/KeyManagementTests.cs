@@ -7,7 +7,6 @@ using WalletWasabi.Blockchain.Analysis.Clustering;
 using WalletWasabi.Blockchain.Keys;
 using WalletWasabi.Helpers;
 using WalletWasabi.Logging;
-using WalletWasabi.Tests.XunitConfiguration;
 using Xunit;
 
 namespace WalletWasabi.Tests.UnitTests

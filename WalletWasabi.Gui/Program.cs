@@ -1,15 +1,12 @@
 using Avalonia;
 using Avalonia.Dialogs;
-using Avalonia.Rendering;
 using Avalonia.Threading;
 using AvalonStudio.Shell;
 using AvalonStudio.Shell.Extensibility.Platforms;
 using NBitcoin;
-using ReactiveUI;
 using Splat;
 using System;
 using System.IO;
-using System.Reactive.Concurrency;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 using WalletWasabi.Gui.CommandLine;

@@ -1,9 +1,4 @@
-using Avalonia.Diagnostics.ViewModels;
 using System;
-using System.Runtime.InteropServices;
-using System.Diagnostics;
-using System.Collections.Generic;
-using System.Text;
 using WalletWasabi.Gui.ViewModels;
 using System.IO;
 using ReactiveUI;

@@ -3,11 +3,9 @@ using AvalonStudio.Extensibility;
 using AvalonStudio.Extensibility.Dialogs;
 using AvalonStudio.Shell;
 using ReactiveUI;
-using System;
 using System.Reactive;
 using System.Threading.Tasks;
 using WalletWasabi.Gui.Controls.LockScreen;
-using WalletWasabi.Logging;
 
 namespace WalletWasabi.Gui.ViewModels
 {

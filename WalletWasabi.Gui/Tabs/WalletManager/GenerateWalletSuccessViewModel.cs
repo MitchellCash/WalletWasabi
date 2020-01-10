@@ -5,9 +5,7 @@ using WalletWasabi.Gui.ViewModels;
 using WalletWasabi.Logging;
 using System;
 using System.Reactive.Linq;
-using WalletWasabi.Helpers;
 using WalletWasabi.Blockchain.Keys;
-using WalletWasabi.Models;
 using WalletWasabi.Gui.Helpers;
 
 namespace WalletWasabi.Gui.Tabs.WalletManager

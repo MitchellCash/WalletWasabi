@@ -1,5 +1,4 @@
 using NBitcoin;
-using NBitcoin.Protocol;
 using NBitcoin.RPC;
 using Nito.AsyncEx;
 using System;
@@ -14,7 +13,6 @@ using WalletWasabi.Blockchain.Blocks;
 using WalletWasabi.Helpers;
 using WalletWasabi.Logging;
 using WalletWasabi.Models;
-using WalletWasabi.Stores;
 
 namespace WalletWasabi.Blockchain.BlockFilters
 {

@@ -1,9 +1,6 @@
 using Newtonsoft.Json;
 using System;
-using System.Collections.Generic;
 using System.Net;
-using System.Text;
-using WalletWasabi.Helpers;
 
 namespace WalletWasabi.JsonConverters
 {

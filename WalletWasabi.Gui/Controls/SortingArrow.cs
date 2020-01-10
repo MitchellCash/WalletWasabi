@@ -3,17 +3,11 @@ using Avalonia.Controls;
 using Avalonia.Controls.Primitives;
 using Avalonia.Controls.Shapes;
 using Avalonia.Data;
-using Avalonia.Input;
-using Avalonia.Input.Platform;
 using Avalonia.Interactivity;
 using Avalonia.Layout;
 using Avalonia.Media;
 using Avalonia.Styling;
-using ReactiveUI;
 using System;
-using System.ComponentModel;
-using System.Reactive.Linq;
-using System.Runtime.CompilerServices;
 
 namespace WalletWasabi.Gui.Controls
 {

@@ -1,4 +1,3 @@
-using Avalonia.Threading;
 using NBitcoin;
 using ReactiveUI;
 using System;
@@ -14,7 +13,6 @@ using WalletWasabi.Gui.ViewModels;
 using WalletWasabi.Gui.ViewModels.Validation;
 using WalletWasabi.Helpers;
 using WalletWasabi.Logging;
-using WalletWasabi.Services;
 using WalletWasabi.Models;
 using WalletWasabi.CoinJoin.Common.Models;
 using WalletWasabi.CoinJoin.Client.Rounds;

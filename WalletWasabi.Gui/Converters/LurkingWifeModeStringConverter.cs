@@ -1,12 +1,9 @@
-using Avalonia;
 using Avalonia.Data.Converters;
 using NBitcoin;
 using Splat;
 using System;
-using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
-using System.Text;
 
 namespace WalletWasabi.Gui.Converters
 {

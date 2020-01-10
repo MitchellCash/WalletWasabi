@@ -1,11 +1,9 @@
 using Avalonia.Controls;
 using Avalonia.Markup.Xaml;
 using Avalonia;
-using Avalonia.Input;
 using ReactiveUI;
 using System.Reactive.Linq;
 using System;
-using Avalonia.LogicalTree;
 
 namespace WalletWasabi.Gui.Controls.LockScreen
 {

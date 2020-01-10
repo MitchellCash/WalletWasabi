@@ -1,5 +1,4 @@
 using System;
-using System.Collections.Generic;
 using Avalonia.Media;
 using Avalonia.Input;
 using Avalonia.Controls;

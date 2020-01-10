@@ -1,11 +1,8 @@
-using Avalonia;
 using Avalonia.Data.Converters;
 using Avalonia.Media;
 using Splat;
 using System;
-using System.Collections.Generic;
 using System.Globalization;
-using System.Text;
 using WalletWasabi.CoinJoin.Common.Models;
 
 namespace WalletWasabi.Gui.Converters

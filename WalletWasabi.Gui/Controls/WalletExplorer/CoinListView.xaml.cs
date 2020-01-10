@@ -4,7 +4,6 @@ using Avalonia.Data;
 using Avalonia.Markup.Xaml;
 using ReactiveUI;
 using System;
-using System.Reactive.Linq;
 
 namespace WalletWasabi.Gui.Controls.WalletExplorer
 {

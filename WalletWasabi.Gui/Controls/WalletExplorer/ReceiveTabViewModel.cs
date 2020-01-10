@@ -1,4 +1,3 @@
-using Avalonia;
 using Avalonia.Threading;
 using ReactiveUI;
 using System;
@@ -8,16 +7,11 @@ using System.Linq;
 using System.Reactive;
 using System.Reactive.Disposables;
 using System.Reactive.Linq;
-using System.Threading;
-using System.Threading.Tasks;
 using WalletWasabi.Blockchain.Analysis.Clustering;
 using WalletWasabi.Blockchain.Keys;
 using WalletWasabi.Gui.Helpers;
-using WalletWasabi.Gui.Tabs.WalletManager;
 using WalletWasabi.Gui.ViewModels;
 using WalletWasabi.Logging;
-using WalletWasabi.Hwi;
-using WalletWasabi.Hwi.Exceptions;
 using Splat;
 
 namespace WalletWasabi.Gui.Controls.WalletExplorer

@@ -1,7 +1,5 @@
 using System;
-using System.Linq;
 using System.Net.Http;
-using System.Threading.Tasks;
 using static WalletWasabi.Http.Constants;
 
 namespace WalletWasabi.Http.Models

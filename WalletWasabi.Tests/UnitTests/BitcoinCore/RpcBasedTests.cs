@@ -1,15 +1,8 @@
-using NBitcoin;
 using NBitcoin.RPC;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using WalletWasabi.BitcoinCore;
-using WalletWasabi.Models;
 using WalletWasabi.Services;
-using WalletWasabi.Stores;
 using WalletWasabi.Tests.Helpers;
 using Xunit;
 

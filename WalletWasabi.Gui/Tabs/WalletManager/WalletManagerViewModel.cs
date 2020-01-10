@@ -1,15 +1,9 @@
-using Avalonia.Threading;
 using ReactiveUI;
 using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Composition;
 using System.Linq;
-using System.Threading;
-using System.Threading.Tasks;
 using WalletWasabi.Gui.ViewModels;
-using WalletWasabi.Hwi.Models;
-using WalletWasabi.Logging;
 
 namespace WalletWasabi.Gui.Tabs.WalletManager
 {
